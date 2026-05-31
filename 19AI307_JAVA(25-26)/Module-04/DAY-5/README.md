@@ -23,15 +23,14 @@ To write a Java program to demonstrate the **Observer Pattern**, where multiple 
 14. Display notifications for each subscriber.  
 15. Stop the program.
 
----
 
 ## PROGRAM:
 
 ```java
 /*
 Program to implement Behaviour Pattern using Java (Observer Pattern)
-Developed by: VEDAGIRI INDU SREE
-RegisterNumber: 212223230236
+Developed by: PULI NAGA NEERAJ
+RegisterNumber: 212223240130
 */
 
 import java.util.*;
@@ -97,8 +96,6 @@ public class Main {
 }
 ```
 
----
-
 ## SOURCE CODE:
 
 Compile the program using
@@ -113,8 +110,6 @@ Run the program using
 java Main
 ```
 
----
-
 ## OUTPUT:
 
 ```
@@ -127,8 +122,6 @@ TechWorld uploaded: Java Basics
 Hari received notification: TechWorld uploaded Java Basics
 Priya received notification: TechWorld uploaded Java Basics
 ```
-
----
 
 ## RESULT:
 
